@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Fbc/plEh74j87UK7nh24xbsW2vORd4MIuGREA1yIb73cNcNUkSVFOSvY5qVERrEAWuSH7IkOLDla2rE7/xSDw==",
+  "dgSpecHash": "8BVcBsvEcm9VcKEl1sb/rb/FsAqtKGV8V+bqerQRIQELODMybf0Kz75Fs10wuEDEQYu/OZ3GBUZnD/u30Hiycw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kachr\\source\\repos\\DS3SaveBackup\\DS3SaveBackup\\DS3SaveBackup.csproj",
+  "projectFilePath": "C:\\Users\\kachr\\Downloads\\DS3 Save Backup Tool\\DS3SaveBackup\\DS3SaveBackup.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kachr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],

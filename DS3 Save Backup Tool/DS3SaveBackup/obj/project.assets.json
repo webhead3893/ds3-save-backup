@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kachr\\source\\repos\\DS3SaveBackup\\DS3SaveBackup\\DS3SaveBackup.csproj",
+      "projectUniqueName": "C:\\Users\\kachr\\Downloads\\DS3 Save Backup Tool\\DS3SaveBackup\\DS3SaveBackup.csproj",
       "projectName": "DS3SaveBackup",
-      "projectPath": "C:\\Users\\kachr\\source\\repos\\DS3SaveBackup\\DS3SaveBackup\\DS3SaveBackup.csproj",
+      "projectPath": "C:\\Users\\kachr\\Downloads\\DS3 Save Backup Tool\\DS3SaveBackup\\DS3SaveBackup.csproj",
       "packagesPath": "C:\\Users\\kachr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kachr\\source\\repos\\DS3SaveBackup\\DS3SaveBackup\\obj\\",
+      "outputPath": "C:\\Users\\kachr\\Downloads\\DS3 Save Backup Tool\\DS3SaveBackup\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kachr\\AppData\\Roaming\\NuGet\\NuGet.Config",
