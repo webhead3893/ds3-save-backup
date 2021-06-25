@@ -44,8 +44,10 @@ namespace DS3SaveBackup
             string appdata = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);  // appdata
             string documents = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);    // documents
             string saveLoc = Path.Combine(appdata, "DarkSoulsIII"); // save location
-            string backupLoc = Path.Combine(documents, "DS3SaveBackup");    // backup location
+            string backupLoc = Path.Combine(documents, "DS3 Save Backup");    // backup location
             DirectoryCopy(saveLoc, backupLoc);
+            Console.WriteLine("Backup complete. Saves can be found in " + backupLoc + ".\nPress any key to close this window.");
+            Console.ReadKey();
         }
     }
 }
