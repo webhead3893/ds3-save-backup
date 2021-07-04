@@ -1,0 +1,5 @@
+C:\Users\kachr\Downloads\DS3 Save Backup Tool\DS3SaveBackup\bin\Release\netcoreapp3.1\publish\DS3SaveBackup.exe
+C:\Users\kachr\Downloads\DS3 Save Backup Tool\DS3SaveBackup\bin\Release\netcoreapp3.1\publish\DS3SaveBackup.dll
+C:\Users\kachr\Downloads\DS3 Save Backup Tool\DS3SaveBackup\bin\Release\netcoreapp3.1\publish\DS3SaveBackup.deps.json
+C:\Users\kachr\Downloads\DS3 Save Backup Tool\DS3SaveBackup\bin\Release\netcoreapp3.1\publish\DS3SaveBackup.runtimeconfig.json
+C:\Users\kachr\Downloads\DS3 Save Backup Tool\DS3SaveBackup\bin\Release\netcoreapp3.1\publish\DS3SaveBackup.pdb
