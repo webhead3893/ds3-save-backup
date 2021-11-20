@@ -4,9 +4,9 @@ A tool that automatically copies your current DS3 save to a folder called "DS3 S
 To use it, just open the shortcut called "DS3 Save Backup Tool" in the folder.
 
 # Additional instructions for making the program run when you start the game
-*Note: this doesn't really work since it seems to send an Audit process event while the game is running as well, causing your save to back up repeatedly as you play, which kind of breaks the point of this since it's meant to give you saves from the start of your session in case you get hacked.*
+*Note: this doesn't really work since it seems to send an event while the game is running as well, causing your save to back up repeatedly as you play, which kind of breaks the point of this since it's meant to give you saves from the start of your session in case you get hacked.*
 
-*But I'm just going to leave it here anyway ¯\\_(ツ)_/¯*
+*But I'm just going to leave it here anyway ¯\\\_(ツ)\_/¯*
 
 1. Press Win + R and enter `secpol.msc`
 
@@ -40,6 +40,6 @@ To use it, just open the shortcut called "DS3 Save Backup Tool" in the folder.
 
 12. Create a new Action, and select it as "Start a Program"
 
-13. Browse to the directory with the downloaded folder, then select the .exe file in DS3SaveBackup/bin/Debug/netcoreapp3.1/
+13. Browse to the directory with the downloaded folder, then select the executable for the Save Backup program.
 
 The program should run every time DS3 starts now.
