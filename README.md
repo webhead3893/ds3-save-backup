@@ -6,7 +6,9 @@ To use it, just open the shortcut called "DS3 Save Backup Tool" in the folder.
 # Additional instructions for making the program run when you start the game
 *Note: this doesn't really work since it seems to send an event while the game is running as well, causing your save to back up repeatedly as you play, which kind of breaks the point of this since it's meant to give you saves from the start of your session in case you get hacked.*
 
-*But I'm just going to leave it here anyway ¯\\\_(ツ)\_/¯*
+*But I'm just going to leave it here anyway. ¯\\\_(ツ)\_/¯*
+
+*Also if you are looking for something decent to make save backups, the [SpeedSouls Save Organizer](https://github.com/Kahmul/SpeedSouls-Save-Organizer/releases) is great.*
 
 1. Press Win + R and enter `secpol.msc`
 
