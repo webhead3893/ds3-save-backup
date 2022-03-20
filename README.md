@@ -3,7 +3,7 @@
 A tool that automatically copies your current DS3 save to a folder called "DS3 Save Backup" in your documents directory.
 To use it, just open the shortcut called "DS3 Save Backup Tool" in the folder.
 
-# Additional instructions for making the program run when you start the game
+# Additional instructions for making the program run when you start the game (because otherwise it's sorta useless and annoying to work with)
 *Note: this doesn't really work since it seems to send an event while the game is running as well, causing your save to back up repeatedly as you play, which kind of breaks the point of this since it's meant to give you saves from the start of your session in case you get hacked.*
 
 *But I'm just going to leave it here anyway. ¯\\\_(ツ)\_/¯*
